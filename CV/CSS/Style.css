@@ -1,0 +1,65 @@
+
+body{
+	/* margin:2%; */
+	display:inline;
+}
+
+#menu{
+	background:#202020;
+	display:inline-block;
+	width:20%;
+	float:fixed;
+	vertical-align:top;
+	padding:0%;
+	
+}
+
+.btns {
+	margin:.5%;
+	font-size:14px;
+    font-family:Verdana,Helvetica;
+    font-weight:bold;
+    color:white;
+    background:#638cb5;
+	background:#222222;
+    border:0px;
+    width:80%;
+    height:30px;
+}
+
+#Contenidos{
+	display:inline-block;
+	width:70%;
+	background:#222222;
+	background:#638cb5;
+	font-family:Verdana,Helvetica;
+    font-weight:bold;
+    color:white;
+	padding:0%;
+	
+}
+
+
+
+.Apartados{
+	width:95%;
+	margin:.5%;
+	display:none;
+}
+.Apartados p, lu, li{
+	background:#638cb5;
+	background:#222222;
+}
+
+ul,li{
+	list-style:none;
+}
+ul,li,h3,p{
+	align-items:left;
+	align-items:left;
+}
+
+#AreasDeInteres{
+	
+}
+
